@@ -23,7 +23,7 @@ This project is a **GUI-based Image Steganography tool** built using **Python** 
    - Enter the correct passcode.
    - The tool retrieves and displays the hidden message.
 
-![Screenshot]([https://github.com/sleeptoken/Stegoproj/blob/main/Screenshot.png])
+![Screenshot](https://github.com/sleeptoken/Stegoproj/blob/main/Screenshot.png)
 
 ## Technologies Used
 
